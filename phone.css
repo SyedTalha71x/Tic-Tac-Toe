@@ -1,0 +1,9 @@
+@media screen and (max-width:1000px){
+    .game-container{
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .game-info h1{
+        width: 100%;
+    }
+}
